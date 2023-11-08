@@ -1,0 +1,8 @@
+The Catcher in the Rye,Salinger,1951,0, 978-0-31675-753-6
+To Kill a Mockingbird,Lee,1960,1, 978-0-42546-378-9
+1984,Orwell,1949,1, 978-0-45291-493-5
+Pride and Prejudice,Austen,1813,0, 978-1-85326-000-1
+The Great Gatsby,Fitzgerald,1925,0, 978-0-68994-146-3
+One Hundred Years of Solitude,Garcia Marquez,1967,0, 978-0-52406-028-7
+Crime and Punishment,Dostoevsky,1866,0, 978-0-52253-210-8
+Wuthering Heights,Bronte,1847,1, 978-0-91486-056-9
